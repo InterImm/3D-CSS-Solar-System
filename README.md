@@ -1,6 +1,8 @@
-3D CSS Solar System 
+三维太阳系
 ===================
 
-Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+在浏览器中使用 HTML/CSS + JS 实现太阳系的可视化。
 
-See it in action : http://codepen.io/juliangarnier/full/idhuG
+基于 [3D Solar System](http://codepen.io/juliangarnier/full/idhuG) 修改制作。
+
+修改包括去掉大小比较、修改标题等，并翻译为中文。

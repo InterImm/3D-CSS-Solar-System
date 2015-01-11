@@ -1157,6 +1157,16 @@ h1 {
   text-align: center;
   color: rgba(255, 255, 255, 0.8); }
 
+h1 span, #navbar h1 a {
+  display: inline;
+  position: relative;
+  padding: 0;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.5); }
+}
+
 #navbar, #controls, #data {
   background: rgba(0, 0, 0, 0.4); }
 
